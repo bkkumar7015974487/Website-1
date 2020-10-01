@@ -1,4 +1,4 @@
-Odoo Website Builder
+Odoo Website Builder and Modifier
 --------------------
 
 Get an awesome and <a href="https://www.odoo.com/page/website-builder">free website</a>,
@@ -20,7 +20,7 @@ backend; just click anywhere to change any content.
 "Want to change the price of a product? or put it in bold? Want to change a
 blog title?" Just click and change. What you see is what you get. Really.
 
-Awesome. Astonishingly Beautiful.
+Awesome. Astonishingly and Amazingly Beautiful.
 ---------------------------------
 
 Odoo's building blocks allow to design modern websites that are not possible
